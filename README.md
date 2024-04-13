@@ -22,6 +22,14 @@
 
   <h2>👨‍💻 • Projects | Projetos </h2>
 
+<div class="project-locatecep/locatecep">
+    <h3>locatecep</h3>
+    <p>Project Status: In Development</p>
+    <p>Description: UF/City Locator component via ZIP code in java.</p>
+    <p>Technologies and Tools: Java</p>
+    <p>Stars: <img src="https://img.shields.io/github/stars/locatecep/locatecep"></p>
+  </div>
+
   <div class="project-OpenLibrary">
     <h3>OpenLibrary</h3>
     <p>Project Status: In Development</p>
@@ -37,6 +45,7 @@
     <p>Technologies and Tools: Java</p>
     <p>Stars: <img src="https://img.shields.io/github/stars/FertwBr/estruturaDeDados?style=social"></p>
   </div>
+
 
   <h2>✉️ • Contact | Contato </h2>
   <ul>
