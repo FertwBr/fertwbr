@@ -23,11 +23,10 @@
   <h2>👨‍💻 • Projects | Projetos </h2>
 
 <div class="project-locatecep/locatecep">
-    <h3>locatecep</h3>
+    <h3>LocateCEP</h3>
     <p>Project Status: In Development</p>
     <p>Description: UF/City Locator component via ZIP code in java.</p>
     <p>Technologies and Tools: Java</p>
-    <p>Stars: <img src="https://img.shields.io/github/stars/locatecep/locatecep"></p>
   </div>
 
   <div class="project-OpenLibrary">
@@ -35,15 +34,13 @@
     <p>Project Status: In Development</p>
     <p>Description: A project to share books online.</p>
     <p>Technologies and Tools: Java, Spring Boot, PostgreSQL</p>
-    <p>Stars: <img src="https://img.shields.io/github/stars/FertwBr/OpenLibrary?style=social"></p>
   </div>
 
-  <div class="project-estruturaDeDados">
+  <div class="project-EstruturaDeDados">
     <h3>estruturaDeDados</h3>
     <p>Project Status: Completed</p>
     <p>Description: Implementation of data structures in Java.</p>
     <p>Technologies and Tools: Java</p>
-    <p>Stars: <img src="https://img.shields.io/github/stars/FertwBr/estruturaDeDados?style=social"></p>
   </div>
 
 
@@ -56,8 +53,8 @@
   <h2>📈 • GitHub Statistics | Estatísticas Do GitGub </h2>
   <div>
     <a href="https://github.com/fertwbr">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertwbr&layout=compact&langs_count=7&theme=dracula"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fertwbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertwbr&layout=compact&langs_count=7&theme=onedark"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fertwbr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
     </a>
   </div>
 </section>
