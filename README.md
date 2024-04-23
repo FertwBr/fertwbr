@@ -14,13 +14,13 @@
 
 <!-- English Version -->
 <section id="english-version">
-  <h2>🧍 • About Me | Sobre Mim </h2>
+  <h2>🧍 • About Me</h2>
   <p>I'm Fernando Vaz, also known in the digital world as <a href="https://github.com/fertwbr">@fertwbr </a>.</p>
   <p>I'm a passionate developer always eager to learn more. Currently, I'm focused on enhancing my skills in Kotlin, Java, HTML, CSS, JavaScript, and SQL.</p>
   <p>Fluent in Portuguese, obviously, and I also have advanced English.</p>
   <p>Education: I'm currently in the fifth semester of Software Engineering at UCSAL (Universidade Católica Do Salvador).</p>
 
-  <h2>👨‍💻 • Projects | Projetos </h2>
+  <h2>👨‍💻 • Projects</h2>
 
 <div class="project-locatecep/locatecep">
     <h3>LocateCEP</h3>
@@ -44,13 +44,13 @@
   </div>
 
 
-  <h2>✉️ • Contact | Contato </h2>
+  <h2>✉️ • Contact</h2>
   <ul>
     <li>Email: <a href="mailto:fertwbr@gmail.com">fertwbr@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/fernando-bela">Fernando Bela</a></li>
   </ul>
 
-  <h2>📈 • GitHub Statistics | Estatísticas Do GitGub </h2>
+  <h2>📈 • GitHub Statistics</h2>
   <div>
     <a href="https://github.com/fertwbr">
       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertwbr&layout=compact&langs_count=7&theme=onedark"/>
