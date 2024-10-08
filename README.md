@@ -1,62 +1,61 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+# 🌐 Fernando Vaz - @fertwbr
 
-  <header>
-    <h1>fertwbr.github.io</h1>
-    <p>Hi there! Welcome to my digital space!👍</p>
-  </header>
+Hi there! I'm **Fernando Vaz**, also known as **[@fertwbr](https://github.com/fertwbr)** in the digital world. Welcome to my github 🚀
 
-<!-- English Version -->
-<section id="english-version">
-  <h2>🧍 • About Me</h2>
-  <p>I'm Fernando Vaz, also known in the digital world as <a href="https://github.com/fertwbr">@fertwbr </a>.</p>
-  <p>I'm a passionate developer always eager to learn more. Currently, I'm focused on enhancing my skills in Kotlin, Java, HTML, CSS, JavaScript, and SQL.</p>
-  <p>Fluent in Portuguese, obviously, and I also have advanced English.</p>
-  <p>Education: I'm currently in the fifth semester of Software Engineering at UCSAL (Universidade Católica Do Salvador).</p>
+---
 
-  <h2>👨‍💻 • Projects</h2>
+## 🧑‍💻 About Me
 
-<div class="project-locatecep/locatecep">
-    <h3>LocateCEP</h3>
-    <p>Project Status: In Development</p>
-    <p>Description: UF/City Locator component via ZIP code in java.</p>
-    <p>Technologies and Tools: Java</p>
-  </div>
+I'm a **Software Engineering** student at **Universidade Católica do Salvador (UCSAL)**, currently in my fifth semester. I'm always eager to learn, expand my knowledge, and tackle new challenges in the world of technology. My main focus right now is honing my skills in:
 
-  <div class="project-OpenLibrary">
-    <h3>OpenLibrary</h3>
-    <p>Project Status: In Development</p>
-    <p>Description: A project to share books online.</p>
-    <p>Technologies and Tools: Java, Spring Boot, PostgreSQL</p>
-  </div>
+## 🛠️ Skills
 
-  <div class="project-EstruturaDeDados">
-    <h3>estruturaDeDados</h3>
-    <p>Project Status: Completed</p>
-    <p>Description: Implementation of data structures in Java.</p>
-    <p>Technologies and Tools: Java</p>
-  </div>
+- **Languages & Frameworks:** Java, Kotlin, Spring Boot, JavaScript, HTML, CSS, Python
+- **Databases:** PostgreSQL, MySQL, SQL
+- **Tools:** GitHub, Postman, Docker, Figma, UI Design, Maven
+- **Additional Knowledge:** Artificial Intelligence, Web Development, Design Patterns
 
+---
 
-  <h2>✉️ • Contact</h2>
-  <ul>
-    <li>Email: <a href="mailto:fertwbr@gmail.com">fertwbr@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/fernando-bela">Fernando Bela</a></li>
-  </ul>
+## 💼 Projects
 
-  <h2>📈 • GitHub Statistics</h2>
-  <div>
-    <a href="https://github.com/fertwbr">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertwbr&layout=compact&langs_count=7&theme=onedark"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fertwbr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    </a>
-  </div>
-</section>
+### 1. [boxIdea](https://github.com/fertwbr/boxIdea)
+- **Status:** In Development
+- **Description:** BoxIdea is a collaborative system where users can submit their work-related experiences and ideas, categorized by themes. The goal is to foster innovation and knowledge sharing within teams.
+- **Tech Stack:** Java (Spring Boot), PostgreSQL, React, JWT for authentication, AWS for hosting
 
+### 2. [LocateCEP](https://github.com/fertwbr/LocateCEP)
+- **Status:** Completed
+- **Description:** A Java-based tool for locating UF/City via ZIP code.
+- **Tech Stack:** Java
 
+### 3. [OpenLibrary](https://github.com/fertwbr/OpenLibrary)
+- **Status:** In Development
+- **Description:** A project aimed at creating an online book-sharing platform.
+- **Tech Stack:** Java, Spring Boot, PostgreSQL
+
+### 4. [Grafos-MST](https://github.com/fertwbr/grafos-mst)
+- **Status:** Completed
+- **Description:** Implements Prim's and Kruskal's algorithms to find the Minimum Spanning Tree (MST) in weighted graphs.
+- **Tech Stack:** Java, Maven
+
+---
+
+## 🌱 What I’m Learning
+
+Currently, I am focused on deepening my knowledge in software engineering and full-stack technologies. I am learning to utilize Spring Boot for back-end development while exploring React for front-end development, aiming to create dynamic and responsive web applications. Additionally, I am enhancing my skills in Docker for optimizing development environments and Postman for API testing. My goal is to become a versatile professional capable of contributing to all stages of the software development lifecycle, always seeking innovative and efficient solutions.
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fertwbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertwbr&layout=compact&langs_count=20&theme=radical" />
+</a>
+</div>
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [fertwbr@gmail.com](mailto:fertwbr@gmail.com)
+- **LinkedIn:** [Fernando Bela](https://www.linkedin.com/in/fernando-bela)
