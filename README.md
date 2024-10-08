@@ -22,7 +22,7 @@ I'm a **Software Engineering** student at **Universidade Católica do Salvador (
 ### 1. [boxIdea](https://github.com/fertwbr/boxIdea)
 - **Status:** In Development
 - **Description:** BoxIdea is a collaborative system where users can submit their work-related experiences and ideas, categorized by themes. The goal is to foster innovation and knowledge sharing within teams.
-- **Tech Stack:** Java (Spring Boot), PostgreSQL, React, JWT for authentication, AWS for hosting
+- **Tech Stack:** Java (Spring Boot), PostgreSQL, HTML/CSS, JWT for authentication
 
 ### 2. [LocateCEP](https://github.com/fertwbr/LocateCEP)
 - **Status:** Completed
@@ -53,7 +53,6 @@ Currently, I am focused on deepening my knowledge in software engineering and fu
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fertwbr&layout=compact&langs_count=20&theme=radical" />
 </a>
 </div>
----
 
 ## 📫 How to Reach Me
 
